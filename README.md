@@ -1,7 +1,7 @@
 # CLITaskManager
 
 # Импортируйте весь код командой 
-- git clone  https://github.com/Meltreex/CLITaskManager.git
+`git clone  https://github.com/Meltreex/CLITaskManager.git`
 
 # Структура проекта 
 ```
